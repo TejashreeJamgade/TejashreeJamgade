@@ -8,7 +8,7 @@
   <ol>
     <li>DVC:  <a href="">DVC Tutorial</a> </li>
     <li>MLFlow: <a href="">MLFlow Tutorial</a> </li>
-    <li>Flask: <a href="(https://github.com/TejashreeJamgade/Flask_Output_Methods-)">Flask Tutorial</a> </li>
+    <li>Flask: <a href="https://github.com/TejashreeJamgade/Flask_Output_Methods-">Flask Tutorial</a> </li>
   </ol>
   
   <h2>🛠️ Tools and Technologies</h2>
