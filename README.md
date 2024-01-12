@@ -7,8 +7,8 @@
   📫 How to reach me **tejashree.jamgade@gmail.com**
   <h2>🛠️ Popular Repositories</h2>
   <ol>
-    <li>MLFlow: <a href="https://github.com/TejashreeJamgade/MLFlow_Tutorial-/tree/main">MLFlow Tutorial</a> </li>
-    <li>Flask: <a href="https://github.com/TejashreeJamgade/Flask_Output_Methods-">Flask Tutorial</a> </li>
+    <li>MLFlow: <a href="https://github.com/TejashreeJamgade/MLFlow_Tutorial-/tree/main">Machine Learning Flow Project</a> </li>
+    <li>Flask: <a href="https://github.com/TejashreeJamgade/Flask_Output_Methods-">Flask Project</a> </li>
   </ol>
   
   <h2>🛠️ Tools and Technologies</h2>
