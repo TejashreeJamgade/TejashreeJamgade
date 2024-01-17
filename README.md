@@ -9,6 +9,9 @@
   <ol>
     <li>MLFlow: <a href="https://github.com/TejashreeJamgade/MLFlow_Tutorial-/tree/main">Machine Learning Flow Project</a> </li>
     <li>Flask: <a href="https://github.com/TejashreeJamgade/Flask_Output_Methods-">Flask Project</a> </li>
+    <li>Flask: <a href="https://github.com/TejashreeJamgade/Hotel_Booking_Cancellation-Analysis-Maximizing_Revenue_Efficiency"> Data Preprocessing And Exploration with Pandas</a> </li>
+    <li>Stat: <a href= "https://github.com/TejashreeJamgade/-Airline-Passenger-Satisfaction-Prediction">Logistic Regression</li>
+
   </ol>
   
   <h2>🛠️ Tools and Technologies</h2>
