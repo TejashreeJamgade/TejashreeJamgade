@@ -10,7 +10,7 @@
     <li>MLFlow: <a href="https://github.com/TejashreeJamgade/MLFlow_Tutorial-/tree/main">Machine Learning Flow Project</a> </li>
     <li>Python web framework: <a href="https://github.com/TejashreeJamgade/Flask_Output_Methods-">Flask Project</a> </li>
     <li>Python Proj.: <a href="https://github.com/TejashreeJamgade/Hotel_Booking_Cancellation-Analysis-Maximizing_Revenue_Efficiency"> Data Preprocessing And Exploration with Pandas</a> </li>
-    <li>Binary Classification: <a href= "https://github.com/TejashreeJamgade/-Airline-Passenger-Satisfaction-Prediction">Logistic Regression</li>
+    <li>Binary Classification: <a href= "https://github.com/TejashreeJamgade/Airline_Passenger_Satisfaction_Prediction">Logistic Regression</li>
 
   </ol>
   
